@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "teclado modelo Acer1245",
+    "description": "color negro confortable",
+    "code": 1000,
+    "price": 100,
+    "status": true,
+    "stock": 5,
+    "category": "teclados",
+    "thumbnail": "c://imganes/code_1000"
+  },
+  {
+    "id": 2,
+    "title": "mouse modelo HP",
+    "description": "color rojo confortable",
+    "code": 1001,
+    "price": 50,
+    "status": true,
+    "stock": 8,
+    "category": "mouse",
+    "thumbnail": "c://imganes/code_1001"
+  },
+  {
+    "id": 3,
+    "title": "monitor modelo HD curvo",
+    "description": "color negro ",
+    "code": 1002,
+    "price": 900,
+    "status": false,
+    "stock": 3,
+    "category": "monitores",
+    "thumbnail": "c://imganes/code_1002"
+  },
+  {
+    "id": 4,
+    "title": "cargador",
+    "description": "color negro ",
+    "code": 1003,
+    "price": 60,
+    "status": false,
+    "stock": 1,
+    "category": "accesorios",
+    "thumbnail": "c://imganes/code_1003"
+  }
+]
